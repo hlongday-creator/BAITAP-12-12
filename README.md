@@ -7,7 +7,7 @@
 
 - **Lê Phi Ánh**
   - Student ID: 2180600077
-  - GitHub: [Lê Phi Ánh](https://github.com/le-phi-anh)
+  - GitHub: [Lê Phi Ánh](https://github.com/HnaihP))
 
 ## About the Project
 
